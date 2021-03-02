@@ -1,4 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
-let g:netrw_dirhist_2='/Users/shun_harutaro/Git/homework/.git'
-let g:netrw_dirhist_1='/Users/shun_harutaro/git-practice/.git'
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/shun_harutaro/progedu/adding-up'
+let g:netrw_dirhist_2='/Users/shun_harutaro/.zprezto'
+let g:netrw_dirhist_1='/Users/shun_harutaro/.zprezto/runcoms'
+let g:netrw_dirhist_0='/Users/shun_harutaro/.zprezto'
+let g:netrw_dirhist_9='/Users/shun_harutaro/.zprezto/modules'
+let g:netrw_dirhist_8='/Users/shun_harutaro/.zprezto'
+let g:netrw_dirhist_7='/Users/shun_harutaro/dotfiles'
+let g:netrw_dirhist_6='/Users/shun_harutaro/progedu/adding-up'
+let g:netrw_dirhist_5='/Users/shun_harutaro/progedu/fibonacci'
+let g:netrw_dirhist_4='/Users/shun_harutaro/Git/priner/functions'
