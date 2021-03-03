@@ -10,3 +10,9 @@
 [submodule "colorshemes/iceberg"]
 	path = colorshemes/iceberg
 	url = https://github.com/cocopon/iceberg.vim.git
+[submodule "pack/shun-harutaro/start/neosnippet"]
+	path = pack/shun-harutaro/start/neosnippet
+	url = https://github.com/Shougo/neosnippet.vim.git
+[submodule "pack/shun-harutaro/start/neosnippet-snippets"]
+	path = pack/shun-harutaro/start/neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets.git
